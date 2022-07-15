@@ -78,5 +78,5 @@ This shows that people belonging to all grades have incurred the same amount of 
 | Log loss score and brier score are decent but model lacks predictive performance. |  We observed that the ROC , precision and recall improved for the XGBoost model.   |  
 | This is possible because of the highly imbalanced dataset (5% of Charge off loans) | Recall is good but precision and F1score are bad and this is due to the class imbalance. |    
 | Here Recall is more important. Its more dangerous to wrongly accept a bad customer (FN is important)' | So even here the reliability curve is not nice, the probabiliies are still not calibrated. |   
-| <img src="Plots/11.png" width="500" /> | <img src="Plots/12.png" width="500" /> |   
+| <img src="Plots/11.png" width="200" /> | <img src="Plots/12.png" width="200" /> |   
 
