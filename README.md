@@ -33,8 +33,8 @@ The Charged Off loans are only 5% of the entire loan portfolio
 - This compares correctly with the increase in Average interest rates of the loans. The average interest rates have been steadily growing over time and the Charged off loans have a always have a higher interest rates. This means the customers with higher interest rates are more likely to default and undergo charge off
 
 <p float="left">
-  <img src="Plots/2.png" width="300" />
-  <img src="Plots/3.png" width="300" /> 
+  <img src="Plots/2.png" width="400" />
+  <img src="Plots/3.png" width="400" /> 
 </p>
 
 ### Total Payments
@@ -47,8 +47,8 @@ The Charged Off loans are only 5% of the entire loan portfolio
 - Here we can see that the percentage of loans recovered after charge off has steadily been increasing over time and shot up a lot in 2015. It used tb around 2% but increased to 9% in 2015
 
 <p float="left">
-  <img src="Plots/5.png" width="300" />
-  <img src="Plots/6.png" width="300" /> 
+  <img src="Plots/5.png" width="400" />
+  <img src="Plots/6.png" width="400" /> 
 </p>
 
 ### Cumulative Charge Off  
@@ -56,8 +56,8 @@ The Charged Off loans are only 5% of the entire loan portfolio
 - As a result we see that the charge off Loss has grown steadily over time
 
 <p float="left">
-  <img src="Plots/7.png" width="300" />
-  <img src="Plots/8.png" width="300" /> 
+  <img src="Plots/7.png" width="400" />
+  <img src="Plots/8.png" width="400" /> 
 </p>
 
 
@@ -65,8 +65,8 @@ The Charged Off loans are only 5% of the entire loan portfolio
 This shows that people belonging to all grades have incurred the same amount of losses in terms of value but the number of charge offs are higher for C and D grade borrowers.
 
 <p float="left">
-  <img src="Plots/9.png" width="300" />
-  <img src="Plots/10.png" width="300" /> 
+  <img src="Plots/9.png" width="400" />
+  <img src="Plots/10.png" width="400" /> 
 </p>
 
 
@@ -78,7 +78,7 @@ This shows that people belonging to all grades have incurred the same amount of 
 | Log loss score and brier score are decent but model lacks predictive performance. |  We observed that the ROC , precision and recall improved for the XGBoost model.   |  
 | This is possible because of the highly imbalanced dataset (5% of Charge off loans) | Recall is good but precision and F1score are bad and this is due to the class imbalance. |    
 | Here Recall is more important. Its more dangerous to wrongly accept a bad customer (FN is important)' | So even here the reliability curve is not nice, the probabiliies are still not calibrated. |   
-| <img src="Plots/11.jpeg" width="250" /> | <img src="Plots/12.jpeg" width="250" /> |   
+| <img src="Plots/11.jpeg" width="350" /> | <img src="Plots/12.jpeg" width="350" /> |   
 
 
 ### Feature Importance
