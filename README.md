@@ -84,7 +84,7 @@ This shows that people belonging to all grades have incurred the same amount of 
 ### Feature Importance
 <img src= "Plots/13.png" width = '700'>
 
-### Conclusion 
+## Conclusion 
 The XGBoost classifier seems to do a better job at predicting the probability of default and the most important features used to predict this are interest rate, loan term, annual income of borrower and the total current balance. All of the features are quite intuitive because the income of the borrower defines his ability to pay and the current balance indicates the amount of equity the borrower has. It is hard to default when the equity is high. Similarly, the interest rate defines the monlthly burden on the customer and thats a defining feature as well. 
 
 ### Future Work 
