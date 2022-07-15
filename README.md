@@ -81,6 +81,8 @@ This shows that people belonging to all grades have incurred the same amount of 
 | <img src="Plots/11.png" width="200" /> | <img src="Plots/12.png" width="200" /> |   
 
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-<img src="Plots/11.png" width="200" />  |  <img src="Plots/11.png" width="200" />
+## ROC Curves 
+<p float="left">
+  <img src="Plots/11.png" width="500" />
+  <img src="Plots/12.png" width="500" /> 
+</p>
