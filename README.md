@@ -31,8 +31,10 @@ The Charged Off loans are only 5% of the entire loan portfolio
 - The highest number of charge offs so far occured are in 2013 and 2014, they have gradually increased over time and then they fell a lot in 2015
 - This compares correctly with the increase in Average interest rates of the loans. The average interest rates have been steadily growing over time and the Charged off loans have a always have a higher interest rates. This means the customers with higher interest rates are more likely to default and undergo charge off
 
-<img src= "Plots/2.png" width = '500'>
-<img src= "Plots/3.png" width = '500'>
+<p float="left">
+  <img src="Plots/2.png" width="500" />
+  <img src="Plots/3.png" width="500" /> 
+</p>
 
 ### Total Payments
 
@@ -43,15 +45,28 @@ The Charged Off loans are only 5% of the entire loan portfolio
 - Now we are looking at the percentage of loans charged off and recovered in each year. We see that the charged off loans increased a lot during 2013-15 but the recoveries also increase during this period so thats good.
 - Here we can see that the percentage of loans recovered after charge off has steadily been increasing over time and shot up a lot in 2015. It used tb around 2% but increased to 9% in 2015
 
-
 <p float="left">
   <img src="Plots/5.png" width="500" />
   <img src="Plots/6.png" width="500" /> 
 </p>
 
+### Cumulative Charge Off  
+- Although the recoveries have been increasing in number, the dollar value of recoveries is less as compared to the dollar value of charge offs.
+- As a result we see that the charge off Loss has grown steadily over time
+
+<p float="left">
+  <img src="Plots/7.png" width="500" />
+  <img src="Plots/8.png" width="500" /> 
+</p>
 
 
+### Number of charge off loss wrt Grade and Term of Loan 
+This shows that people belonging to all grades have incurred the same amount of losses in terms of value but the number of charge offs are higher for C and D grade borrowers.
 
+<p float="left">
+  <img src="Plots/9.png" width="500" />
+  <img src="Plots/10.png" width="500" /> 
+</p>
 
 
 
