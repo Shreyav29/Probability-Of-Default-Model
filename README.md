@@ -81,6 +81,6 @@ This shows that people belonging to all grades have incurred the same amount of 
 | <img src="Plots/11.jpeg" width="500" /> | <img src="Plots/12.jpeg" width="500" /> |   
 
 
-## Feature Importance
+### Feature Importance
 <img src= "Plots/13.png" width = '500'>
 
