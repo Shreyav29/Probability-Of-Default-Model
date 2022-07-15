@@ -77,5 +77,5 @@ This shows that people belonging to all grades have incurred the same amount of 
 | ROC is 0.53 so classifier is almost random |  The log score and brier score have reduced significantly | 
 | Log loss score and brier score are decent but model lacks predictive performance. |    We observed that the ROC , precision and recall improved for the XGBoost model.   |  
 | This is possible because of the highly imbalanced dataset (5% of Charge off loans) | Recall is good but precision and F1score are bad and this is due to the class imbalance. |    
-| For this problem recall is the next most important factor after the probabiities because it measures the correct number of defaulters we predicted. Its more dangerous to wrongly accept a bad customer (FN is important)' | So even here the reliability curve is not nice, the probabiliies are still not calibrated. |    
+| Here Recall is more important. Its more dangerous to wrongly accept a bad customer (FN is important)' | So even here the reliability curve is not nice, the probabiliies are still not calibrated. |    
 
