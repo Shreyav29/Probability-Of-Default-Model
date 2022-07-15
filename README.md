@@ -20,12 +20,17 @@ If he wants to go to current status, he would have to repay all of the missed in
 
 In this project I am going to estimate the probability of final default or charge off of the loan. (not the intermediate default stages like D30, D60 etc.). I do this because when the customer starts defaulting, there is still hope to recover the lost payments but once he is charged off, the company really looses money.  Hence I consider this to be more useful estimate for the company. 
 
-### Data Analysis 
+## Exploratory Data Analysis 
 
+### Fraction of Charged Off loans
+The Charged Off loans are only 5% of the entire loan portfolio
 
+<img src= "Plots/1.png" width = '500'>
 
-<img src= "Plots/xgb_normal.jpeg"  width = '600'>
+### Proportion of Charge Offs and Interest rates over Time
+- The highest number of charge offs so far occured are in 2013 and 2014, they have gradually increased over time and then they fell a lot in 2015
+- This compares correctly with the increase in Average interest rates of the loans. The average interest rates have been steadily growing over time and the Charged off loans have a always have a higher interest rates. This means the customers with higher interest rates are more likely to default and undergo charge off
 
-
-
+<img src= "Plots/2.png" width = '500'>
+<img src= "Plots/3.png" width = '500'>
 
