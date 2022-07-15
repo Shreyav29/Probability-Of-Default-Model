@@ -45,8 +45,8 @@ The Charged Off loans are only 5% of the entire loan portfolio
 
 
 <p float="left">
-  <img src="/2.png" width="100" />
-  <img src="/3.png" width="100" /> 
+  <img src="Plots/2.png" width="100" />
+  <img src="Plots/3.png" width="100" /> 
 </p>
 
 
