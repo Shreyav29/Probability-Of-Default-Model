@@ -1,13 +1,13 @@
-## Predicting Probability of Default of Lending Club loans
+## Predicting Probability of Default 
 
-### About Lending Club
-Lending Club is a peer to peer lending company based in the United States, in which investors provide funds for potential borrowers and investors earn a profit depending on the risk they take (the borrowers credit score). Lending Club provides the "bridge" between investors and borrowers. For such companies who are in the lending business, calculating the probability of default can help estimate the expected income in the near term. For banks this can be used to ensure that they meet the regulatory capital requirements. 
+### Lending 
+Lending is a core business in any society. In the last 10 years there has been a rise in lending from smaller lending agencies and credit unions. Often, many investors provide funds for potential borrowers and they earn a profit depending on the risk they take (the borrowers credit score). For such companies who are in the lending business, calculating the probability of default can help estimate the expected income in the near term. For banks this can be used to ensure that they meet the regulatory capital requirements. 
 
 ### Project Objective
 Build a machine learning model to predict the probability of deafult in the next month for lending club,s loan portfolio. 
 
 ### Data Source
-I am using this data set : https://www.kaggle.com/husainsb/lendingclub-issued-loans
+I am using the lending club loan data set : https://www.kaggle.com/husainsb/lendingclub-issued-loans
 
 ### Defining Loan Default 
 A loan can go through different statuses during its life cycle. 
