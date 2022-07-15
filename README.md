@@ -73,7 +73,7 @@ This shows that people belonging to all grades have incurred the same amount of 
 ## Model Development
 
 | Logistic Regression   |      XG Boost Classifier      |  
-|----------|:-------------:|
+|----------| -------------|
 | ROC is 0.53 so classifier is almost random | The log score and brier score have reduced significantly | 
 | Log loss score and brier score are decent but model lacks predictive performance. |  We observed that the ROC , precision and recall improved for the XGBoost model.   |  
 | This is possible because of the highly imbalanced dataset (5% of Charge off loans) | Recall is good but precision and F1score are bad and this is due to the class imbalance. |    
