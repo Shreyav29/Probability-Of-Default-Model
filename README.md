@@ -80,3 +80,7 @@ This shows that people belonging to all grades have incurred the same amount of 
 | Here Recall is more important. Its more dangerous to wrongly accept a bad customer (FN is important)' | So even here the reliability curve is not nice, the probabiliies are still not calibrated. |   
 | <img src="Plots/11.png" width="200" /> | <img src="Plots/12.png" width="200" /> |   
 
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](<img src="Plots/11.png" width="200" />)  |  ![](<img src="Plots/11.png" width="200" />)
