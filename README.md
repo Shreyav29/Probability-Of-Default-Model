@@ -89,9 +89,9 @@ The XGBoost classifier seems to do a better job at predicting the probability of
 
 ### Future Work 
 Although the model does a decent job in predicting the probability of default we can improve it in several ways. 
-- DATA : The given data is the loan origination data but a lot can change from origination to now. So, we would need more current data with respect to the borrower (Eg. Current credit infromation, income and bank account info, spending info etc ) and including macro economic data can also help (Eg. interet rate, inflation , unemployment etc ) 
-- FEATURE ENGINEERING : We can create more features which would help the model predict better. (Eg. number of delinquencies in last 3 months , number of missed payments , debt to income ratio, PMI to income ratio etc ) 
-- MODELLING : We can try using different models or tune the hyperparameters of the existing models
+- **DATA** : The given data is the loan origination data but a lot can change from origination to now. So, we would need more current data with respect to the borrower (Eg. Current credit infromation, income and bank account info, spending info etc ) and including macro economic data can also help (Eg. interet rate, inflation , unemployment etc ) 
+- **FEATURE ENGINEERING** : We can create more features which would help the model predict better. (Eg. number of delinquencies in last 3 months , number of missed payments , debt to income ratio, PMI to income ratio etc ) 
+- **MODELLING** : We can try using different models or tune the hyperparameters of the existing models
 
 
 
