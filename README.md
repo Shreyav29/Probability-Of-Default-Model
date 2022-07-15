@@ -22,7 +22,7 @@ In this project I am going to estimate the probability of final default or charg
 
 ## Exploratory Data Analysis 
 
-### Fraction of Charged Off loans
+### Imbalance Data Check - Fraction of defaulted loans 
 The Charged Off loans are only 5% of the entire loan portfolio
 
 <img src= "Plots/1.png" width = '500'>
@@ -33,4 +33,28 @@ The Charged Off loans are only 5% of the entire loan portfolio
 
 <img src= "Plots/2.png" width = '500'>
 <img src= "Plots/3.png" width = '500'>
+
+### Total Payments
+
+<img src= "Plots/4.png" width = '500'>
+
+### Recoveries
+- Firstly we have defined the total recoveries to be the recovered amount and the recovery fees collected by Lending Club.
+- Now we are looking at the percentage of loans charged off and recovered in each year. We see that the charged off loans increased a lot during 2013-15 but the recoveries also increase during this period so thats good.
+- Here we can see that the percentage of loans recovered after charge off has steadily been increasing over time and shot up a lot in 2015. It used tb around 2% but increased to 9% in 2015
+
+
+<img src= "Plots/5.png" width = '200'>
+<img src= "Plots/6.png" width = '200'>
+
+
+
+
+
+
+
+
+
+
+
 
