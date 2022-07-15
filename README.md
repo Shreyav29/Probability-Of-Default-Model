@@ -83,4 +83,4 @@ This shows that people belonging to all grades have incurred the same amount of 
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](<img src="Plots/11.png" width="200" />)  |  ![](<img src="Plots/11.png" width="200" />)
+<img src="Plots/11.png" width="200" />  |  <img src="Plots/11.png" width="200" />
