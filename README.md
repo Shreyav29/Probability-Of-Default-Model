@@ -82,5 +82,5 @@ This shows that people belonging to all grades have incurred the same amount of 
 
 
 ### Feature Importance
-<img src= "Plots/13.png" width = '500'>
+<img src= "Plots/13.png" width = '700'>
 
