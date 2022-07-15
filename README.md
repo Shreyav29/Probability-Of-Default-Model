@@ -1,6 +1,6 @@
 ## Predicting Probability of Default of Lending Club loans
 
-### Lending Club
+### About Lending Club
 Lending Club is a peer to peer lending company based in the United States, in which investors provide funds for potential borrowers and investors earn a profit depending on the risk they take (the borrowers credit score). Lending Club provides the "bridge" between investors and borrowers. For such companies who are in the lending business, calculating the probability of default can help estimate the expected income in the near term. For banks this can be used to ensure that they meet the regulatory capital requirements. 
 
 ### Project Objective
@@ -21,5 +21,11 @@ If he wants to go to current status, he would have to repay all of the missed in
 In this project I am going to estimate the probability of final default or charge off of the loan. (not the intermediate default stages like D30, D60 etc.). I do this because when the customer starts defaulting, there is still hope to recover the lost payments but once he is charged off, the company really looses money.  Hence I consider this to be more useful estimate for the company. 
 
 ### Data Analysis 
+
+
+
+<img src= "Plots/xgb_normal.jpeg"  width = '600'>
+
+
 
 
