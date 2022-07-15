@@ -44,10 +44,10 @@ The Charged Off loans are only 5% of the entire loan portfolio
 - Here we can see that the percentage of loans recovered after charge off has steadily been increasing over time and shot up a lot in 2015. It used tb around 2% but increased to 9% in 2015
 
 
-<img src= "Plots/5.png" width = '200'>
-<img src= "Plots/6.png" width = '200'>
-
-
+<p float="left">
+  <img src="/5.png" width="100" />
+  <img src="/6.png" width="100" /> 
+</p>
 
 
 
