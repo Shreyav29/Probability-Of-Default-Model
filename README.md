@@ -4,7 +4,7 @@
 Lending is a core business of our society. Traditionally only banks have done lending but in the last 10 years there has been a rise in lending from smaller lending agencies and credit unions. Often, many investors provide funds for potential borrowers and they earn a profit depending on the risk they take (the borrowers credit score). For such companies who are in the lending business, calculating the probability of default can help estimate the expected income in the near term. For banks this can be used to ensure that they meet the regulatory capital requirements. 
 
 ### Project Objective
-Build a machine learning model to predict the probability of deafult in the next month for lending club,s loan portfolio. 
+Build a machine learning model to predict the probability of deafult in the next month for lending club's loan portfolio. 
 
 ### Data Source
 I am using the lending club loan data set : https://www.kaggle.com/husainsb/lendingclub-issued-loans
